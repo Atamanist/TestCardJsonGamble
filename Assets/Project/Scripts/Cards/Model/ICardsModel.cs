@@ -7,5 +7,7 @@ namespace Project.Cards.Model
         public void Previous();
         public void Next();
         public CardInfo Selected();
+
+        public CardInfo[] Cards { get; }
     }
 }

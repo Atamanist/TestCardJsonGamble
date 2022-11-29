@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9001f95d-8ff7-45ef-a3db-1ab4ac758e80" name="Changes" comment="" />
+    <list default="true" id="9001f95d-8ff7-45ef-a3db-1ab4ac758e80" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestCardJsonGamble/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestCardJsonGamble/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Prefabs/Card.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Card.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/Cards/Model/CardsModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Cards/Model/CardsModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/Cards/Model/ICardsModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Cards/Model/ICardsModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/Cards/View/CardView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Cards/View/CardView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/Core.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Core.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +19,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Cards/View/CardsScrollView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Cards/Controller/CardsScrollController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Cards/View/ICardsScrollView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Time/Assets/Project/Scripts/View/SavedTimeItemView.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="2IAbpSCkRc4rjIAKZ0COde7NOfA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34980392" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -53,6 +70,10 @@
       <option name="presentableId" value="Default" />
       <updated>1669627526258</updated>
       <workItem from="1669627535663" duration="83000" />
+      <workItem from="1669659943782" duration="4415000" />
+      <workItem from="1669673557094" duration="7404000" />
+      <workItem from="1669683259423" duration="7759000" />
+      <workItem from="1669691667701" duration="1031000" />
     </task>
     <servers />
   </component>
@@ -62,6 +83,18 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

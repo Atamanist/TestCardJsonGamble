@@ -6,6 +6,7 @@ namespace Project.Cards.Model
         private CardInfo[] _cards;
         private int _index;
         public int Count => _cards.Length;
+        public CardInfo[] Cards => _cards;
 
         public CardsModel(CardInfo[] cardInfos)
         {
